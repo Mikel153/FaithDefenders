@@ -2647,7 +2647,7 @@ input, select, textarea {
 		#header .logo {
 			display: block;
 			border-bottom: 0;
-			color: inherit;
+			color: #15396a;
 			font-weight: 900;
 			letter-spacing: 0.35em;
 			margin: 0 0 2.5em 0;
@@ -3091,7 +3091,7 @@ input, select, textarea {
 		height: 100%;
 		width: 100%;
 	  }.banner-text {
-		color: #fff;
+		color: #e53935;
 		max-width: 60%;
 	  }.banner-text h3 {
 		font-size: 1.45rem;
@@ -3099,7 +3099,7 @@ input, select, textarea {
 		font-weight: bold;
 		line-height: 1.2;
 	  }.banner-subtext {
-		color: #e74c3c;
+		color: #fff;
 		font-size: 1rem;
 		margin: 0;
 		letter-spacing: 1px;
